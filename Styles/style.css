@@ -6,8 +6,9 @@
     width: 4000px;
     min-width: 4000px;
     max-width: 4000px;
+    
 }
 #home {
     color: black;
-    pointer-events: all;
+    
 }
